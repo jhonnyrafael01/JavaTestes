@@ -27,6 +27,7 @@ public class Teste {
 
 		c2.acelerar();
 		System.out.println(c2.toString());
+		
 
 		
 	}
